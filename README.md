@@ -1,4 +1,7 @@
-# PopularMovies
+# PopularMovies v1.0
+
+An app to help users discover popular and recent movies.
+
 <b>Note</b>: In order to build your own app, add your own API key obtained from http://themoviedb.org to ```build.gradle:Module``` as 
 ```
 buildTypes.each{
