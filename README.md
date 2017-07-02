@@ -13,6 +13,4 @@ Replace api_key with your own API KEY.<br />
 
 Libraries Used : <br />
 [Picasso](https://github.com/square/picasso)<br />
-[Butterknife](https://github.com/JakeWharton/butterknife)<br />
 [Retrofit](https://github.com/square/retrofit)<br />
-[Glide](https://github.com/bumptech/glide)
